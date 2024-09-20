@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://narthrice.github.io/sitemap.html.gz
+Sitemap: https://narthrice.github.io/app/sitemap.html.gz
+Sitemap: https://narthrice.github.io/assets/sitemap.html.gz
+Sitemap: https://narthrice.github.io/css/sitemap.html.gz
+Sitemap: https://narthrice.github.io/data/sitemap.html.gz
+Sitemap: https://narthrice.github.io/includes/sitemap.html.gz
+Sitemap: https://narthrice.github.io/item/sitemap.html.gz
+Sitemap: https://narthrice.github.io/src/sitemap.html.gz
